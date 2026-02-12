@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eddy Odero</h1>
-<h3 align="center">A passionate Devop from Kenya</h3>
+<h3 align="center">A passionate Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddy-odero&label=Profile%20views&color=0e75b6&style=flat" alt="eddy-odero" /> </p>
 
