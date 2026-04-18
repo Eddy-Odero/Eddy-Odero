@@ -20,6 +20,13 @@
 
 ---
 
+### 📫 Contact Me
+
+- 📧 Email: **odiwuorodero8948@gmail.com**
+- 💻 GitHub: https://github.com/Eddy-Odero
+
+---
+
 ### 🚀 Featured Project
 
 🔹 **Netflix Clone**  
@@ -56,12 +63,16 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,js,html,css,nodejs,mysql,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=go,php,cpp,c,java,js,html,css,nodejs,mysql,docker,linux,git,blender,figma" />
+</p>
+
+<p align="center">
+  🎨 Canva • Visual Basic • Go (Primary Language)
 </p>
 
 ---
 
-### 🎯 2026 Goals
+### 🎯 Goals
 
 - ✅ Build real-world backend projects  
 - 🚧 Master Golang (APIs, concurrency)  
@@ -74,7 +85,3 @@
 > "Consistency beats talent when talent doesn't work hard."
 
 ---
-
-<p align="center">
-  ⭐ From <a href="https://github.com/Eddy-Odero">Eddy Odero</a>
-</p>
