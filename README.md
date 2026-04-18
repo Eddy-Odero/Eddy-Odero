@@ -1,59 +1,82 @@
 <h1 align="center">Hi 👋, I'm Eddy Odero</h1>
-<h3 align="center">A passionate Developer from Kenya</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eddy-odero&label=Profile%20views&color=0e75b6&style=flat" alt="eddy-odero" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Golang+Specialist;Building+Scalable+Systems;Always+Learning+New+Things" />
 </p>
 
-- 🔭 I’m currently working on [Netflix app](https://github.com/Eddy-Odero/Netflix.git)
-
-- 🌱 I’m currently learning **Golang**
-
-- 👨‍💻 All of my projects are available at  
-  https://github.com/Eddy-Odero
-
-- 💬 Ask me about **golang**
-
-- 📫 How to reach me **odiwuorodero8948@gmail.com**
-
-- ⚡ Fun fact **I love anime and I do arts**
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">🚀 Backend Developer | Go (Golang) Focused</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eddy-Odero&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eddy-Odero&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Odero&layout=compact&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=Eddy-Odero&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+### 👨‍💻 About Me
+
+- 🔭 Currently building: **Netflix Clone**
+- 🌱 Focused on: **Golang (Backend Development)**
+- 💬 Ask me about: **Go, APIs, Databases**
+- 🎯 Goal: Build scalable backend systems
+- ⚡ Fun fact: I love anime & digital art 🎨
+
+---
+
+### 🚀 Featured Project
+
+🔹 **Netflix Clone**  
+👉 https://github.com/Eddy-Odero/Netflix.git  
+
+> A streaming platform clone focused on backend logic and user experience.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-<a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
-<a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40"/></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/></a>
-<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-<a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eddy-Odero&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Eddy-Odero&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Odero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eddy-Odero/Eddy-Odero/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,js,html,css,nodejs,mysql,docker,linux,git" />
+</p>
+
+---
+
+### 🎯 2026 Goals
+
+- ✅ Build real-world backend projects  
+- 🚧 Master Golang (APIs, concurrency)  
+- 🚀 Deploy scalable applications  
+
+---
+
+### 💡 Quote
+
+> "Consistency beats talent when talent doesn't work hard."
+
+---
+
+<p align="center">
+  ⭐ From <a href="https://github.com/Eddy-Odero">Eddy Odero</a>
 </p>
