@@ -1,20 +1,28 @@
 name: Generate Snake
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Eddy-Odero
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
