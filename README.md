@@ -30,7 +30,7 @@
 ### 🚀 Featured Project
 
 🔹 **Netflix Clone**  
-👉 https://github.com/Eddy-Odero/Netflix.git  
+👉 https://netflix-hazel-tau.vercel.app/
 
 > A streaming platform clone focused on backend logic and user experience.
 
