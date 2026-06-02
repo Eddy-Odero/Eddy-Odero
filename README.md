@@ -35,21 +35,13 @@
 > A streaming platform clone focused on backend logic and user experience.
 
 ---
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eddy-Odero&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eddy-Odero&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Eddy-Odero&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eddy-Odero&theme=tokyonight&hide_border=true&v=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Odero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=1" />
-</p>
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Odero&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🐍 Contribution Snake
 
