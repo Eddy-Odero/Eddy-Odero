@@ -10,8 +10,6 @@
 
 ---
 
-<div align="center">
-
 ## 👨‍💻 About Me
 
 🔭 Currently building **EU-FLIX**   **SATGATE**
@@ -24,11 +22,8 @@
 
 ⚡ Fun fact: **I love anime & digital art 🎨**
 
-</div>
 
 ---
-
-<div align="center">
 
 ## 📫 Contact Me
 
@@ -36,13 +31,7 @@
 
 💻 **GitHub:** <a href="https://github.com/Eddy-Odero">Eddy-Odero</a>
 
-</div>
-
 ---
-
-<div align="center">
-
-<div align="center">
 
 ## 🚀 Featured Projects
 
@@ -52,7 +41,6 @@
 
 *A streaming platform focused on performance, scalability, and user experience.*
 
-<br/>
 
 ### 💄 TINAH COSMETICS
 
@@ -60,15 +48,11 @@
 
 *A modern POS and inventory management system featuring sales tracking, customer management, reporting, loyalty programs, and stock control.*
 
-<br/>
-
 ### ⚡ SatGate
 
 👉 https://satgate-2.onrender.com/
 
 *An anti-spam contact form solution that uses a small Bitcoin Lightning payment as proof of intent, helping businesses receive verified messages while blocking automated spam.*
-
-</div>
 
 ---
 
@@ -77,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eddy-Odero&show_icons=true&theme=tokyonight&hide_border=true" />
-
+<br/><br/>
 <img height="170" src="https://streak-stats.demolab.com?user=Eddy-Odero&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
