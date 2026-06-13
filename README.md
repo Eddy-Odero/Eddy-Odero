@@ -42,7 +42,7 @@
 *A streaming platform focused on performance, scalability, and user experience.*
 
 
-### 💄 TINAH COSMETICS
+### 💄 MAISON POS
 
 👉 https://tinah-cosmetics.vercel.app/
 
