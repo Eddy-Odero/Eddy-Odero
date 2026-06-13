@@ -1,78 +1,123 @@
-<h1 align="center">Hi I'm Eddy</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eddy-Odero&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Eddy-Odero&label=Profile%20views&color=0e75b6&style=flat" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Golang+Specialist;Building+Scalable+Systems;Always+Learning+New+Things" />
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Eddy;Backend+Developer;Golang+Specialist;JavaScript+%26+TypeScript+Developer;Building+Scalable+Systems;Always+Learning+New+Things" />
 
-### 👨‍💻 About Me
-
-- 🔭 Currently building: **Netflix Clone**
-- 🌱 Focused on: **Golang (Backend Development)**
-- 💬 Ask me about: **Go, APIs, Databases**
-- 🎯 Goal: Build scalable backend systems
-- ⚡ Fun fact: I love anime & digital art 🎨
+</div>
 
 ---
 
-### 📫 Contact Me
+<div align="center">
 
-- 📧 Email: **odiwuorodero8948@gmail.com**
-- 💻 GitHub: https://github.com/Eddy-Odero
+## 👨‍💻 About Me
+
+🔭 Currently building **EU-FLIX**   **SATGATE**
+
+🌱 Focused on **Golang Backend Development**
+
+💬 Ask me about **Go, APIs, Databases, JavaScript & TypeScript**
+
+🎯 Goal: **Build scalable backend systems**
+
+⚡ Fun fact: **I love anime & digital art 🎨**
+
+</div>
 
 ---
 
-### 🚀 Featured Project
+<div align="center">
 
-🔹 **Netflix Clone**  
+## 📫 Contact Me
+
+📧 **Email:** `odiwuorodero8948@gmail.com`
+
+💻 **GitHub:** <a href="https://github.com/Eddy-Odero">Eddy-Odero</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+### 🎬 EU-FLIX
+
 👉 https://netflix-hazel-tau.vercel.app/
 
-> A streaming platform clone focused on backend logic and user experience.
+*A streaming platform focused on performance, scalability, and user experience.*
+
+<br/>
+
+### 💄 TINAH COSMETICS
+
+👉 https://tinah-cosmetics.vercel.app/
+
+*A modern POS and inventory management system featuring sales tracking, customer management, reporting, loyalty programs, and stock control.*
+
+<br/>
+
+### ⚡ SatGate
+
+👉 https://satgate-2.onrender.com/
+
+*An anti-spam contact form solution that uses a small Bitcoin Lightning payment as proof of intent, helping businesses receive verified messages while blocking automated spam.*
+
+</div>
 
 ---
+
+<div align="center">
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eddy-Odero&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eddy-Odero&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Eddy-Odero&theme=tokyonight&hide_border=true)
+<img height="170" src="https://streak-stats.demolab.com?user=Eddy-Odero&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Odero&layout=compact&theme=tokyonight&hide_border=true)
+<br/><br/>
 
-### 🐍 Contribution Snake
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Odero&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eddy-Odero/Eddy-Odero/output/github-contribution-grid-snake.svg" />
-</p>
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,cpp,c,java,js,html,css,nodejs,mysql,docker,linux,git,blender,figma" />
-</p>
+## 🐍 Contribution Snake
 
-<p align="center">
-  🎨 Canva • Visual Basic • Go (Primary Language)
-</p>
+<img src="https://raw.githubusercontent.com/Eddy-Odero/Eddy-Odero/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 ---
 
-### 🎯 Goals
+<div align="center">
 
-- ✅ Build real-world backend projects  
-- 🚧 Master Golang (APIs, concurrency)  
-- 🚀 Deploy scalable applications  
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=go,ts,js,php,cpp,c,java,nodejs,mysql,docker,linux,git,html,css,blender,figma" />
+
+</div>
 
 ---
 
-### 💡 Quote
+<div align="center">
 
-> "Consistency beats talent when talent doesn't work hard."
+## 🎯 Goals
+
+✅ Build production-ready backend systems
+
+🚧 Master Golang Concurrency & Microservices
+
+🚀 Deploy scalable cloud-native applications
+
+</div>
 
 ---
