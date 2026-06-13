@@ -35,7 +35,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 EU-FLIX
+### 🎬 EDU-FLIX
 
 👉 https://netflix-hazel-tau.vercel.app/
 
