@@ -60,13 +60,12 @@
 
 ## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eddy-Odero&show_icons=true&theme=tokyonight&hide_border=true" />
-<br/><br/>
-<img height="170" src="https://streak-stats.demolab.com?user=Eddy-Odero&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eddy-Odero&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Eddy-Odero&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Odero&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Odero&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
