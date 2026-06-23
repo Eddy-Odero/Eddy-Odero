@@ -58,14 +58,19 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eddy-Odero&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Eddy-Odero&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Eddy-Odero&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Odero&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://streak-stats.demolab.com?user=Eddy-Odero&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Odero&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
