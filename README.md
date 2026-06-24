@@ -37,7 +37,7 @@
 
 ### 🎬 EDU-FLIX
 
-👉 https://netflix-hazel-tau.vercel.app/
+👉 https://edu-flix.onrender.com/
 
 *A streaming platform focused on performance, scalability, and user experience.*
 
