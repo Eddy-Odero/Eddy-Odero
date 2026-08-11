@@ -1,8 +1,7 @@
 
+<br/> <br/>
 
-
-
-<img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk">
+<div align="center"> <img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk"> </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Eddy-Odero&label=Profile%20views&color=0e75b6&style=flat" />
 
