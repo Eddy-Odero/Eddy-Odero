@@ -1,0 +1,725 @@
+{
+  "username": "Eddy Odero",
+  "tagline": "Full-Stack Developer | Golang Specialist | Kisumu, Kenya",
+  "stack": [
+    "Go",
+    "JavaScript",
+    "TypeScript",
+    "PHP",
+    "Node.js",
+    "C++",
+    "HTML",
+    "CSS",
+    "SQLite",
+    "PostgreSQL",
+    "Docker"
+  ],
+  "cursor": "\u2588",
+  "system_message": "> checking for updates... none, as usual",
+  "quote": "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.",
+  "status": "Merging feature branch",
+  "terminal_svg_path": "generated/terminal.svg",
+  "fragment_cards": [
+    {
+      "name": "SatGate",
+      "description": "Lightning Network-powered CAPTCHA replacement for contact forms.",
+      "repo_url": "https://github.com/Eddy-Odero/SatGate",
+      "preview_url": "https://satgate-2.onrender.com/",
+      "icon": "lightning",
+      "visibility": "public",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "card_svg_path": "generated/fragment_card_0.svg"
+    },
+    {
+      "name": "EDU-FLIX",
+      "description": "Netflix-style streaming platform built with Go and SQLite/Turso.",
+      "repo_url": "https://github.com/Eddy-Odero/EDU-FLIX",
+      "preview_url": "https://edu-flix.onrender.com/",
+      "icon": "play",
+      "visibility": "private",
+      "language": "Go",
+      "stars": 0,
+      "forks": 0,
+      "card_svg_path": "generated/fragment_card_1.svg"
+    },
+    {
+      "name": "profile-engine",
+      "description": "The Python/SVG/Jinja2 pipeline that generates this very profile README.",
+      "repo_url": "https://github.com/Eddy-Odero/profile-engine",
+      "preview_url": null,
+      "icon": "code",
+      "visibility": "public",
+      "language": "Python",
+      "stars": 20,
+      "forks": 0,
+      "card_svg_path": "generated/fragment_card_2.svg"
+    },
+    {
+      "name": "Maison POS",
+      "description": "Point-of-sale system for retail, built with vanilla JS.",
+      "repo_url": "https://github.com/Eddy-Odero/Maison-POS",
+      "preview_url": "https://tinah-cosmetics.vercel.app/",
+      "icon": "cart",
+      "visibility": "public",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "card_svg_path": "generated/fragment_card_3.svg"
+    }
+  ],
+  "badge_view_path": "generated/badge_view.svg",
+  "badge_code_path": "generated/badge_code.svg",
+  "badge_disabled_path": "generated/badge_disabled.svg",
+  "skill_modules_svg_path": "generated/skill_modules.svg",
+  "leetcode_panel_svg_path": "generated/leetcode_panel.svg",
+  "event_log_svg_path": "generated/event_log.svg",
+  "neural_activity_svg_path": "generated/neural_activity.svg",
+  "social_links": [
+    {
+      "label": "Twitter",
+      "icon": "twitter",
+      "url": "https://x.com/savvyoriah48",
+      "pill_svg_path": "generated/pill_twitter.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/eddy-odero-7b3332346/",
+      "pill_svg_path": "generated/pill_linkedin.svg"
+    },
+    {
+      "label": "Dev.to",
+      "icon": "website",
+      "url": "https://dev.to/edd_odero",
+      "pill_svg_path": "generated/pill_website.svg"
+    },
+    {
+      "label": "Email",
+      "icon": "email",
+      "url": "mailto:odiwuorodero8948@gmail.com",
+      "pill_svg_path": "generated/pill_email.svg"
+    }
+  ],
+  "quote_svg_path": "generated/quote.svg",
+  "section_headers": {
+    "System Modules": "generated/header_2.svg",
+    "LeetCode Stats": "generated/header_3.svg",
+    "Event Log": "generated/header_4.svg",
+    "Fragmented Data": "generated/header_5.svg",
+    "Signal Uplink": "generated/header_6.svg",
+    "Neural Activity": "generated/header_7.svg"
+  },
+  "build_time": "2026-08-29 16:31 UTC",
+  "stat_badges": [
+    "![Repos: 24](https://img.shields.io/badge/Repos-24-007f8c?style=flat-square&labelColor=07090F)",
+    "![Stars: 23](https://img.shields.io/badge/Stars-23-007f8c?style=flat-square&labelColor=07090F)",
+    "![Followers: 72](https://img.shields.io/badge/Followers-72-007f8c?style=flat-square&labelColor=07090F)",
+    "![LC Solved: 45](https://img.shields.io/badge/LC_Solved-45-007f8c?style=flat-square&labelColor=07090F)"
+  ],
+  "theme": "hud",
+  "repo_count": 24,
+  "stars": 23,
+  "followers": 72,
+  "top_languages": [
+    "Go",
+    "HTML",
+    "JavaScript"
+  ],
+  "recent_activity": [
+    "pushed to Eddy-Odero/profile-engine",
+    "pushed to Eddy-Odero/Introduction-to-js-beginner",
+    "pushed to Eddy-Odero/Introduction-to-js-beginner",
+    "pushed to Eddy-Odero/Introduction-to-js-beginner",
+    "pushed to Eddy-Odero/Introduction-to-js-beginner"
+  ],
+  "pinned_repos": [
+    "SatGate"
+  ],
+  "contributions": 1115,
+  "heatmap": {
+    "weeks": [
+      [
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        1,
+        2,
+        0,
+        1
+      ],
+      [
+        1,
+        3,
+        1,
+        4,
+        2,
+        4,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        2,
+        1,
+        2,
+        2,
+        2,
+        0
+      ],
+      [
+        0,
+        4,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        0
+      ],
+      [
+        0,
+        2,
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        2
+      ],
+      [
+        2,
+        1,
+        1,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1
+      ],
+      [
+        1,
+        1,
+        2,
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        0,
+        2,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        0,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        2,
+        2,
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        1,
+        2,
+        0,
+        0,
+        3
+      ],
+      [
+        2,
+        1,
+        3,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        0,
+        1,
+        1,
+        2
+      ],
+      [
+        2,
+        2,
+        3,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        1
+      ],
+      [
+        1,
+        1,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      [
+        1,
+        3,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        2,
+        3,
+        2,
+        4
+      ],
+      [
+        4,
+        2,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      [
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        4,
+        2,
+        3,
+        4,
+        1,
+        1,
+        2
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      [
+        2,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        2,
+        2,
+        2,
+        1,
+        2,
+        1
+      ]
+    ],
+    "streak": 57,
+    "current_streak": 57,
+    "longest_streak": 57,
+    "active_days": 244,
+    "total": 1115
+  },
+  "repo_details": {
+    "admin-dashboard-php": {
+      "stars": 0,
+      "forks": 0
+    },
+    "Eddy-Odero": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Fumigation-website": {
+      "stars": 0,
+      "forks": 0
+    },
+    "getting-started-with-github-copilot": {
+      "stars": 0,
+      "forks": 0
+    },
+    "git-reloaded": {
+      "stars": 0,
+      "forks": 0
+    },
+    "Introduction-to-Algorithms-Go": {
+      "stars": 0,
+      "forks": 0
+    },
+    "Introduction-to-Golang-beginner-projects": {
+      "stars": 0,
+      "forks": 1
+    },
+    "Introduction-to-js-beginner": {
+      "stars": 0,
+      "forks": 0
+    },
+    "Netflix": {
+      "stars": 0,
+      "forks": 0
+    },
+    "Point_of_sale": {
+      "stars": 0,
+      "forks": 0
+    },
+    "profile-engine": {
+      "stars": 20,
+      "forks": 0
+    },
+    "Rating-page": {
+      "stars": 0,
+      "forks": 0
+    },
+    "simple-library-": {
+      "stars": 0,
+      "forks": 0
+    },
+    "skills-communicate-using-markdown": {
+      "stars": 0,
+      "forks": 0
+    },
+    "skills-github-pages": {
+      "stars": 0,
+      "forks": 0
+    },
+    "skills-introduction-to-git": {
+      "stars": 0,
+      "forks": 0
+    },
+    "skills-introduction-to-github": {
+      "stars": 0,
+      "forks": 0
+    },
+    "skills-resolve-merge-conflicts": {
+      "stars": 0,
+      "forks": 0
+    },
+    "skills-review-pull-requests": {
+      "stars": 0,
+      "forks": 0
+    },
+    "Student-management-system": {
+      "stars": 0,
+      "forks": 0
+    },
+    "virtual-cat": {
+      "stars": 0,
+      "forks": 0
+    }
+  },
+  "solved": {
+    "total": 45,
+    "easy": 12,
+    "medium": 22,
+    "hard": 11
+  },
+  "rating": null,
+  "ranking": null,
+  "top_percentage": null,
+  "contests_attended": null,
+  "badges": [],
+  "recent_submissions": []
+}

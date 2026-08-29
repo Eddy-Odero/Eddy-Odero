@@ -1,115 +1,73 @@
-
-<br/> <br/>
-<br/> <br/>
-
-<div align="center"> <img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk"> </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Eddy-Odero&label=Profile%20views&color=0e75b6&style=flat" />
 
-<br/>
+![Eddy Odero terminal](generated/terminal.svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Eddy;Backend+Developer;Golang+Specialist;JavaScript+%26+TypeScript+Developer;Building+Scalable+Systems;Always+Learning+New+Things" />
+<sub>~ live session · Eddy Odero@github · re-renders every build ~</sub>
+
+![Repos: 24](https://img.shields.io/badge/Repos-24-007f8c?style=flat-square&labelColor=07090F) ![Stars: 23](https://img.shields.io/badge/Stars-23-007f8c?style=flat-square&labelColor=07090F) ![Followers: 72](https://img.shields.io/badge/Followers-72-007f8c?style=flat-square&labelColor=07090F) ![LC Solved: 45](https://img.shields.io/badge/LC_Solved-45-007f8c?style=flat-square&labelColor=07090F)
+
+![System Modules header](generated/header_2.svg)
+
+![System Modules](generated/skill_modules.svg)
+
+![Quote](generated/quote.svg)
+
+![LeetCode Stats header](generated/header_3.svg)
+
+![LeetCode Stats](generated/leetcode_panel.svg)
+
+![Event Log header](generated/header_4.svg)
+
+![Event Log](generated/event_log.svg)
+
+![Fragmented Data header](generated/header_5.svg)
 
 </div>
 
----
+<table cellpadding="2" cellspacing="2" border="0">
+<tr>
+<td align="center">
 
-## 👨‍💻 About Me
+![SatGate](generated/fragment_card_0.svg)
 
-🔭 Currently building **EU-FLIX**   **SATGATE**
+[![View](generated/badge_view.svg)](https://satgate-2.onrender.com/) [![Code](generated/badge_code.svg)](https://github.com/Eddy-Odero/SatGate)
 
-🌱 Focused on **Golang Backend Development**
+</td>
+<td align="center">
 
-💬 Ask me about **Go, APIs, Databases, JavaScript & TypeScript**
+![EDU-FLIX](generated/fragment_card_1.svg)
 
-🎯 Goal: **Build scalable backend systems**
+[![View](generated/badge_view.svg)](https://edu-flix.onrender.com/) [![Code](generated/badge_code.svg)](https://github.com/Eddy-Odero/EDU-FLIX)
 
-⚡ Fun fact: **I love anime & digital art 🎨**
+</td>
+</tr>
+<tr>
+<td align="center">
 
+![profile-engine](generated/fragment_card_2.svg)
 
----
+![View disabled](generated/badge_disabled.svg) [![Code](generated/badge_code.svg)](https://github.com/Eddy-Odero/profile-engine)
 
-## 📫 Contact Me
+</td>
+<td align="center">
 
-📧 **Email:** `odiwuorodero8948@gmail.com`
+![Maison POS](generated/fragment_card_3.svg)
 
-💻 **GitHub:** <a href="https://github.com/Eddy-Odero">Eddy-Odero</a>
+[![View](generated/badge_view.svg)](https://tinah-cosmetics.vercel.app/) [![Code](generated/badge_code.svg)](https://github.com/Eddy-Odero/Maison-POS)
 
----
-
-## 🚀 Featured Projects
-
-### 🎬 EDU-FLIX
-
-👉 https://edu-flix.onrender.com/
-
-*A streaming platform focused on performance, scalability, and user experience.*
-
-
-### 💄 MAISON POS
-
-👉 https://tinah-cosmetics.vercel.app/
-
-*A modern POS and inventory management system featuring sales tracking, customer management, reporting, loyalty programs, and stock control.*
-
-### ⚡ SatGate
-
-👉 https://satgate-2.onrender.com/
-
-*An anti-spam contact form solution that uses a small Bitcoin Lightning payment as proof of intent, helping businesses receive verified messages while blocking automated spam.*
-
----
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<div align="center">
+![Signal Uplink header](generated/header_6.svg)
 
-## 📊 GitHub Stats
+[![Twitter](generated/pill_twitter.svg)](https://x.com/savvyoriah48) [![LinkedIn](generated/pill_linkedin.svg)](https://www.linkedin.com/in/eddy-odero-7b3332346/) [![Dev.to](generated/pill_website.svg)](https://dev.to/edd_odero) [![Email](generated/pill_email.svg)](mailto:odiwuorodero8948@gmail.com) 
+![Neural Activity header](generated/header_7.svg)
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Eddy-Odero&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=Eddy-Odero&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Odero&layout=compact&theme=tokyonight&hide_border=true" />
+![Neural Activity](generated/neural_activity.svg)
 
 </div>
 
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Eddy-Odero/Eddy-Odero/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=go,ts,js,php,cpp,c,java,nodejs,mysql,docker,linux,git,html,css,blender,figma" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Goals
-
-✅ Build production-ready backend systems
-
-🚧 Master Golang Concurrency & Microservices
-
-🚀 Deploy scalable cloud-native applications
-
-</div>
-
----
+<sub>Last rendered: 2026-08-29 16:31 UTC · theme: hud · auto-generated, do not edit by hand</sub>
