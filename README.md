@@ -4,7 +4,7 @@
 
 <sub>~ live session · Eddy Odero@github · re-renders every build ~</sub>
 
-![Repos: 24](https://img.shields.io/badge/Repos-24-007f8c?style=flat-square&labelColor=07090F) ![Stars: 23](https://img.shields.io/badge/Stars-23-007f8c?style=flat-square&labelColor=07090F) ![Followers: 72](https://img.shields.io/badge/Followers-72-007f8c?style=flat-square&labelColor=07090F) ![LC Solved: 45](https://img.shields.io/badge/LC_Solved-45-007f8c?style=flat-square&labelColor=07090F)
+![Repos: 24](https://img.shields.io/badge/Repos-24-007f8c?style=flat-square&labelColor=07090F) ![Stars: 23](https://img.shields.io/badge/Stars-23-007f8c?style=flat-square&labelColor=07090F) ![Followers: 73](https://img.shields.io/badge/Followers-73-007f8c?style=flat-square&labelColor=07090F) ![LC Solved: 45](https://img.shields.io/badge/LC_Solved-45-007f8c?style=flat-square&labelColor=07090F)
 
 ![System Modules header](generated/header_2.svg)
 
@@ -70,4 +70,4 @@
 
 </div>
 
-<sub>Last rendered: 2026-09-02 10:09 UTC · theme: hud · auto-generated, do not edit by hand</sub>
+<sub>Last rendered: 2026-09-03 10:21 UTC · theme: hud · auto-generated, do not edit by hand</sub>
