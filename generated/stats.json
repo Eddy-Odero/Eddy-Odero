@@ -14,10 +14,10 @@
     "PostgreSQL",
     "Docker"
   ],
-  "cursor": " ",
-  "system_message": "> checking for updates... none, as usual",
-  "quote": "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.",
-  "status": "Building APIs",
+  "cursor": "_",
+  "system_message": "> uptime: 3 days, 14 hours, still debugging",
+  "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+  "status": "ONLINE",
   "terminal_svg_path_dark": "generated/terminal.svg",
   "terminal_svg_path_light": "generated/terminal_light.svg",
   "fragment_heading_svg_path_dark": "generated/fragment_heading.svg",
@@ -123,7 +123,7 @@
   "activity_status_svg_path_light": "generated/activity_status_light.svg",
   "quote_svg_path": "generated/quote.svg",
   "section_headers": {},
-  "build_time": "2026-11-19 05:48 UTC",
+  "build_time": "2026-11-19 07:26 UTC",
   "stat_badges": [
     "![Repos: 30](https://img.shields.io/badge/Repos-30-007f8c?style=flat-square&labelColor=07090F)",
     "![Stars: 22](https://img.shields.io/badge/Stars-22-007f8c?style=flat-square&labelColor=07090F)",
