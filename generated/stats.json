@@ -14,10 +14,10 @@
     "PostgreSQL",
     "Docker"
   ],
-  "cursor": "\u2588",
+  "cursor": "_",
   "system_message": "> checking for updates... none, as usual",
   "quote": "Code never lies, comments sometimes do.",
-  "status": "ONLINE",
+  "status": "Reading Documentation",
   "terminal_svg_path_dark": "generated/terminal.svg",
   "terminal_svg_path_light": "generated/terminal_light.svg",
   "fragment_heading_svg_path_dark": "generated/fragment_heading.svg",
@@ -82,6 +82,8 @@
   "leetcode_panel_svg_path_light": "generated/leetcode_panel_light.svg",
   "event_log_svg_path_dark": "generated/event_log.svg",
   "event_log_svg_path_light": "generated/event_log_light.svg",
+  "cta_work_svg_path": "generated/cta_work.svg",
+  "cta_hello_svg_path": "generated/cta_hello.svg",
   "city_page_path": "generated/city_interactive.html",
   "neural_activity_svg_path_dark": "generated/neural_activity.svg",
   "neural_activity_svg_path_light": "generated/neural_activity_light.svg",
@@ -121,7 +123,7 @@
   "activity_status_svg_path_light": "generated/activity_status_light.svg",
   "quote_svg_path": "generated/quote.svg",
   "section_headers": {},
-  "build_time": "2026-11-19 01:04 UTC",
+  "build_time": "2026-11-19 01:28 UTC",
   "stat_badges": [
     "![Repos: 30](https://img.shields.io/badge/Repos-30-007f8c?style=flat-square&labelColor=07090F)",
     "![Stars: 22](https://img.shields.io/badge/Stars-22-007f8c?style=flat-square&labelColor=07090F)",
@@ -135,8 +137,8 @@
   "stars": 22,
   "followers": 113,
   "top_languages": [
-    "JavaScript",
     "HTML",
+    "JavaScript",
     "Go"
   ],
   "recent_activity": [
@@ -149,7 +151,7 @@
   "pinned_repos": [
     "SatGate"
   ],
-  "contributions": 1270,
+  "contributions": 1271,
   "heatmap": {
     "weeks": [
       [
@@ -632,7 +634,7 @@
     "current_streak": 2,
     "longest_streak": 96,
     "active_days": 274,
-    "total": 1270
+    "total": 1271
   },
   "repo_details": {
     "admin-dashboard-php": {
