@@ -85,7 +85,7 @@
   <g>
     <rect x="458.0" y="298" width="107" height="118" fill="#07090F" fill-opacity="0.85" stroke="#1c2a3a"/>
     <path d="M464.0 316 L464.0 304 L476.0 304" fill="none" stroke="#FFC84D" stroke-width="1.8" filter="url(#hudglow)"/><path d="M559.0 316 L559.0 304 L547.0 304" fill="none" stroke="#FFC84D" stroke-width="1.8" filter="url(#hudglow)"/><path d="M464.0 398 L464.0 410 L476.0 410" fill="none" stroke="#FFC84D" stroke-width="1.8" filter="url(#hudglow)"/><path d="M559.0 398 L559.0 410 L547.0 410" fill="none" stroke="#FFC84D" stroke-width="1.8" filter="url(#hudglow)"/>
-    <circle cx="511.5" cy="336" r="22" fill="#008f11" fill-opacity="0.12" stroke="#008f11" stroke-width="2"/>
+    <circle cx="511.5" cy="336" r="22" fill="#00E7FF" fill-opacity="0.12" stroke="#00E7FF" stroke-width="2"/>
     <g transform="translate(500.5,325.0) scale(0.1719)"><path fill="#a9bacd" d="M125 50c-4-32-24-50-62-50C29 0 3 24 3 64c0 39 24 64 64 64 32 0 55-19 58-50H87c-2 11-8 20-20 20-21 0-24-16-24-33 0-23 8-35 22-35 13 0 20 7 22 20z" /></g>
     <text x="511.5" y="382" font-family="Consolas, Menlo, monospace" font-size="11" font-weight="700" fill="white" text-anchor="middle" letter-spacing="0.4">C</text>
     <text x="511.5" y="398" font-family="Consolas, Menlo, monospace" font-size="8.5" fill="#6b7a8c" text-anchor="middle" letter-spacing="1">INTERMEDIATE</text>
@@ -101,7 +101,7 @@
   <g>
     <rect x="692.0" y="298" width="107" height="118" fill="#07090F" fill-opacity="0.85" stroke="#1c2a3a"/>
     <path d="M698.0 316 L698.0 304 L710.0 304" fill="none" stroke="#FFC84D" stroke-width="1.8" filter="url(#hudglow)"/><path d="M793.0 316 L793.0 304 L781.0 304" fill="none" stroke="#FFC84D" stroke-width="1.8" filter="url(#hudglow)"/><path d="M698.0 398 L698.0 410 L710.0 410" fill="none" stroke="#FFC84D" stroke-width="1.8" filter="url(#hudglow)"/><path d="M793.0 398 L793.0 410 L781.0 410" fill="none" stroke="#FFC84D" stroke-width="1.8" filter="url(#hudglow)"/>
-    <circle cx="745.5" cy="336" r="22" fill="#008f11" fill-opacity="0.12" stroke="#008f11" stroke-width="2"/>
+    <circle cx="745.5" cy="336" r="22" fill="#00E7FF" fill-opacity="0.12" stroke="#00E7FF" stroke-width="2"/>
     <g transform="translate(734.5,325.0) scale(0.1719)"><path fill="#E44D26" d="M19.037 113.876L9.032 1.661h109.936l-10.016 112.198-45.019 12.48z"/><path fill="#F16529" d="M64 116.8l36.378-10.086 8.559-95.878H64z"/><path fill="#EBEBEB" d="M64 52.455H45.788L44.53 38.361H64V24.599H29.489l.33 3.692 3.382 37.927H64zm0 35.743l-.061.017-15.327-4.14-.979-10.975H33.816l1.928 21.609 28.193 7.826.063-.017z"/><path fill="#fff" d="M63.952 52.455v13.763h16.947l-1.597 17.849-15.35 4.143v14.319l28.215-7.82.207-2.325 3.234-36.233.335-3.696h-3.708zm0-27.856v13.762h33.244l.276-3.092.628-6.978.329-3.692z"/></g>
     <text x="745.5" y="382" font-family="Consolas, Menlo, monospace" font-size="11" font-weight="700" fill="white" text-anchor="middle" letter-spacing="0.4">HTML/CSS</text>
     <text x="745.5" y="398" font-family="Consolas, Menlo, monospace" font-size="8.5" fill="#6b7a8c" text-anchor="middle" letter-spacing="1">EXPERT</text>
